@@ -1,0 +1,57 @@
+body{
+  background-color: orange;
+  padding: 20px 20px;
+
+  
+}
+#d{background-color: white;
+  padding: 50px 50px;
+  display: flex;
+  flex-direction: column;
+}
+#h4-4{text-align:center;}
+
+
+
+  #bt{
+  background-color: blue;color: white;
+  border: 1px solid black;
+  border-radius: 25px;
+padding: 10px 20px;
+margin: 5px;}
+  
+    #btn{
+  background-color: yellow;color: white;
+  border: 1px solid black;
+  border-radius: 25px;
+padding: 10px 20px;
+margin: 5px;}
+  
+  #in{ background: pink;color: white;
+    border: 1px solid black;
+    border-radius: 25px;
+    padding: 10px 20px;
+    margin: 5px;}
+     #M{width: 300px;height: 300px;
+    border: 2px solid black;border-radius: 25px;margin: 10px 20px;
+     }
+    #vd{width: 300px;height: 300px;
+    border: 2px solid blue;border-radius: 25px;margin: 10px 25px;
+    }
+    
+  
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  

@@ -1,0 +1,17 @@
+body{
+  background-color:black ;
+}
+.d{ color: black; background-color: pink;
+  display:flex; justify-content: center;
+  padding: 7px ;
+}
+
+.p{ margin: 20px 10px;
+  color: pink;
+}
+.d1{ display: flex;justify-content: center;}
+.d2{ display:flex; justify-content: flex-end;}
+ .b{ background-color: pink; color: black;
+ padding: 5px 10px; border-radius: 5px;
+ 
+}

@@ -1,0 +1,23 @@
+body{ background-color: pink;}
+
+.d1{ background-color: lightpink;display: flex;
+  justify-content: center;
+}
+.p1{ padding: 10px 10px;
+  
+}
+
+
+.i{ width: 350px; height: 400px;
+  border: 2px solid black; border-radius: 20px;margin: 15px 20px;
+}
+.i1{width: 150px; height:200px;padding: 10px 20px; border:2px solid black; border-radius: 5px;
+}
+.d2{ display:flex; justify-content:space-between; margin: 10px 30px}
+
+  .b1{background-color: black;color: pink;
+  border-radius: 8px;border: 2px solid pink;
+   padding: 5px 10px;
+  }
+.d3{  display: flex;
+  justify-content: flex-start;}
